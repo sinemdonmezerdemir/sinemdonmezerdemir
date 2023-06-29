@@ -1,6 +1,6 @@
 ![MasterHead](https://roverx.io/blog/content/images/2023/03/Unity_logo.jpeg)
 
-<h1 align="center">Hi 👋, I'm Sinem DONMEZ ERDEMIR</h1>
+<h1 align="center">Hi 👋, I'm Sinem Dönmez Erdemir</h1>
 <h3 align="center">A passionate game developer from Türkiye.</h3>
 
 - 📫 How to reach me **sinemdonmezerdemir@gmail.com**
