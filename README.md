@@ -1,4 +1,4 @@
-![MasterHead]([https://play-lh.googleusercontent.com/rQ_1cTEt18okukcfzFnxOfyX7U3Ez2j_bixJFLliI8DlT8-wtLq-BSVq41uwA5AZPR8=w3840-h2160-rw](https://static.wixstatic.com/media/2a4cda_14f5207b87a1481a9a54cac21ff60ae0~mv2.jpg/v1/crop/x_605,y_577,w_1789,h_533/fill/w_1716,h_512,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/var1_edited.jpg))
+![MasterHead](https://static.wixstatic.com/media/2a4cda_14f5207b87a1481a9a54cac21ff60ae0~mv2.jpg/v1/crop/x_605,y_577,w_1789,h_533/fill/w_1716,h_512,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/var1_edited.jpg)
 
 <h1 align="center">Hi 👋, I'm Sinem Dönmez Erdemir</h1>
 <h3 align="center">A passionate game developer from Türkiye.</h3>
