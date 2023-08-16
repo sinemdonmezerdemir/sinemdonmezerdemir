@@ -1,4 +1,4 @@
-![MasterHead](https://roverx.io/blog/content/images/2023/03/Unity_logo.jpeg)
+![MasterHead](https://play-lh.googleusercontent.com/rQ_1cTEt18okukcfzFnxOfyX7U3Ez2j_bixJFLliI8DlT8-wtLq-BSVq41uwA5AZPR8=w3840-h2160-rw)
 
 <h1 align="center">Hi 👋, I'm Sinem Dönmez Erdemir</h1>
 <h3 align="center">A passionate game developer from Türkiye.</h3>
