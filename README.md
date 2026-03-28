@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHo0HnTiErZmA/profile-displaybackgroundimage-shrink_350_1400/B4DZmXgICrJUAc-/0/1759183405961?e=1762387200&v=beta&t=aq125RBuHgPHOboQPL7xqhRunkq020n4ytXlr8Ah4gY)
-
 <h1 align="center">Hi 👋, I'm Sinem Dönmez Erdemir</h1>
 <h3 align="center">A passionate game developer from Türkiye.</h3>
 
